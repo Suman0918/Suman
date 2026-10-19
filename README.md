@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Tanish!</h1>
+<h1 align="center">Hi 👋, I'm Suman!</h1>
 <h3 align="center">A Passionate Developer Exploring AI, Web & Sustainability Tech</h3>
 
 <p align="center">
@@ -10,11 +10,12 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **Greenwash Detector** – A Chrome extension using NLP to detect greenwashing in e-commerce fashion
+- 🔭 Currently building: **SynaptiQ 2.0** – Neuro-Symbolic Conversational Analytics Platform
+- 🔭 Currently built: **Greenwash Detector** – A Chrome extension using NLP to detect greenwashing in e-commerce fashion
 - 🌱 Learning: **BERT**, **MongoDB**, **Flask**, **React**, and Chrome extension APIs
 - 🤖 Interests: AI, Sustainability, Full-Stack Development, and Clean UI/UX
 - 💬 Ask me about anything related to **Python**, **ML**, **Chrome Extensions**, or **APIs**
-- 📫 Reach me at: `tanish.dev@gmail.com`
+- 📫 Reach me at: `sumanmohankumari@gmail.com`
 - ⚡ Fun fact: I love turning messy problems into clean dashboards!
 
 ---
@@ -39,9 +40,7 @@
 
 #### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
