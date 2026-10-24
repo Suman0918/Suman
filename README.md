@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building: **SynaptiQ 2.0** – Neuro-Symbolic Conversational Analytics Platform
-- 🔭 Currently built: **Greenwash Detector** – A Chrome extension using NLP to detect greenwashing in e-commerce fashion
+- 🔭  built: **Greenwash Detector** – A Chrome extension using NLP to detect greenwashing in e-commerce fashion
 - 🌱 Learning: **BERT**, **MongoDB**, **Flask**, **React**, and Chrome extension APIs
 - 🤖 Interests: AI, Sustainability, Full-Stack Development, and Clean UI/UX
 - 💬 Ask me about anything related to **Python**, **ML**, **Chrome Extensions**, or **APIs**
@@ -22,7 +22,7 @@
 
 ### 🚀 My Top Projects
 
-#### 🌿 [Greenwash Detector](https://github.com/TANISH-171/Greenwash-Detector)
+#### 🌿 [Greenwash Detector](https://github.com/Suman0918/Greenwash-Detector.git)
 > Chrome Extension + AI-powered backend to analyze sustainability claims on fashion websites like H&M, Zara, and Shein  
 > 🔹 **Tech:** React, Flask, BERT, MongoDB, Chrome APIs
 
@@ -78,21 +78,11 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TANISH-171&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suman0918&theme=darkhub&no-frame=true&column=7" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:tanish.dev@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
