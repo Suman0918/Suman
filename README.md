@@ -30,9 +30,6 @@
 > ML-based dashboard to forecast crop prices using ARIMA, LSTM, and Prophet models  
 > 🔹 **Tech:** Python, Flask, React, Matplotlib, CSS
 
-#### 🧪 [Unit Testing Framework](https://github.com/TANISH-171/Unit-Testing-Framework)
-> Custom-built Python unit testing system with logging and math utilities  
-> 🔹 **Tech:** Python, Unittest, CLI Tools
 
 ---
 
