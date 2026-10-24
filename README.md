@@ -26,7 +26,7 @@
 > Chrome Extension + AI-powered backend to analyze sustainability claims on fashion websites like H&M, Zara, and Shein  
 > 🔹 **Tech:** React, Flask, BERT, MongoDB, Chrome APIs
 
-#### 📈 [Market Price Forecasting](https://github.com/TANISH-171/Crop-Forecasting-Dashboard)
+#### 📈 [Market Price Forecasting](https://github.com/Suman0918/Crop-Forecasting-Dashboard.git)
 > ML-based dashboard to forecast crop prices using ARIMA, LSTM, and Prophet models  
 > 🔹 **Tech:** Python, Flask, React, Matplotlib, CSS
 
